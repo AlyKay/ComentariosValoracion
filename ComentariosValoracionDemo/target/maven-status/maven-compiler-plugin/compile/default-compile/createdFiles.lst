@@ -1,0 +1,11 @@
+com\comentariosValoracion\demo\pojos\Comentario.class
+com\comentariosValoracion\demo\pojosRepository\PreguntaDaoRepository.class
+com\comentariosValoracion\demo\ComentariosValoracionDemoApplication.class
+com\comentariosValoracion\demo\pojos\Pregunta.class
+com\comentariosValoracion\demo\pojos\Usuario.class
+com\comentariosValoracion\demo\pojosResponse\UsuarioResponse.class
+com\comentariosValoracion\demo\pojosRepository\LugarTuristicoDaoRepository.class
+com\comentariosValoracion\demo\pojos\LugarTuristico.class
+com\comentariosValoracion\demo\pojosRepository\UsuarioDaoRepository.class
+com\comentariosValoracion\demo\pojosRepository\ComentarioDaoRepository.class
+com\comentariosValoracion\demo\pojosResponse\ComentarioResponse.class
